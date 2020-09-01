@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Milton Junior
  */
-public class Exercicio9 {
+public class Exercicio09 {
 /* Faça um programa em Java que receba um valor que foi depositado
  * e exiba o valor com rendimento apos 1 mês .  considere fixo o juro
  * da poupança em 0,70 %a.m.

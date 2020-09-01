@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Milton Junior
  */
-public class Exercicio7 {
+public class Exercicio07 {
     public static void main(String[] args) {
     /* Ler uma temperatura em graus Celsius e apresenta-la convertida em
      *graus Fahrenheit . A formula de conversão e F=(9*C+160)/5 , sendo F a 

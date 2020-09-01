@@ -7,7 +7,7 @@ import java.util.Scanner;
  *
  * @author Milton Junior
  */
-public class Exercicio8 {
+public class Exercicio08 {
 
     public static void main(String[] args) {
        /*Elaborar um programa em Java que efetue  a apresentação do valor da conversão

@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Milton Junior
  */
-public class exercicio24 {
+public class Exercicio24 {
 /*24. Faça um programa em Java que receba “N” números e mostre positivo, negativo ou zero para
  * cada número   
  */   

@@ -11,7 +11,7 @@ import java.util.Scanner;
  *
  * @author Milton Junior
  */
-public class exercicio14 {
+public class Exercicio14 {
    /* 14. Escrever um programa em Java que leia dois valores
     * inteiro distintos e informe qual é o maior.
     */
